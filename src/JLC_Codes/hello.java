@@ -7,6 +7,9 @@ package JLC_Codes;
 			System.out.println(new hello11().a);
 			System.out.println(new hello11().a);
 			System.out.println(new hello11().a);
+			System.out.println("=======================");
+			System.out.println(new hello11().a);
+			System.out.println(new hello11().a);
 		}
 }
 class hello11{
