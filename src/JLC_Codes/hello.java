@@ -4,6 +4,9 @@ package JLC_Codes;
 	 public static void main(String args[]) {
 			new hello11().a=99;
 			System.out.println(new hello11().a);
+			System.out.println(new hello11().a);
+			System.out.println(new hello11().a);
+			System.out.println(new hello11().a);
 		}
 }
 class hello11{
